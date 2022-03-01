@@ -2,7 +2,7 @@ console.timer()
 console.log("ciao fede")
 console.log("ciao")
 
-dioporco
+var gesù=  true
 
 console.log("tano signore supremo della programmazione")
 
