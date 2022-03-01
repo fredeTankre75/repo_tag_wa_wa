@@ -9,4 +9,6 @@ console.log("tano signore supremo della programmazione")
 
 console.log("mario scarica elden ring ")
 
+let a =1
+
 console.timer()
