@@ -11,4 +11,10 @@ console.log("mario scarica elden ring ")
 
 let a =1
 
+class studenteSfortunato{
+    name;
+    age;
+    id
+}
+console.table(studenteSfortunato)
 console.timer()
