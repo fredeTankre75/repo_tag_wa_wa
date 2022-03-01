@@ -22,10 +22,13 @@ let studenteA=new studenteSfortunato("MarioUPalauinisi","ciovaneTroppoCiovane",
                                             "ma che spacchio sarebbe un id")
 
 let studenteB=new studenteSfortunato("Tano conquistatore di mondi",
-"ciovaneApposto , un bravo papareddo","ma certo che un id uno serio come lui, ma tu chi è ca voi?") 
+"ciovaneApposto , un bravo papareddo","ma certo che ha un id uno serio come lui, ma tu chi è ca voi?") 
 
+
+let StudenteC = new studenteSfortunato("kikko",5,1297784)
 console.log(studenteA)
 console.log(studenteB)
+console.log(studenteC)
 
 
 console.timer()
