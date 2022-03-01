@@ -1,4 +1,6 @@
 console.log("ciao fede")
-console.log("tano è il più grande")
+console.log("ciao")
 
-console.log("vediamo se stampa questo")
+dioporco
+
+console.log("tano signore supremo della programmazione")
