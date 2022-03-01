@@ -1,4 +1,3 @@
-console.timer()
 console.log("ciao fede")
 console.log("ciao")
 
@@ -12,7 +11,7 @@ console.log("mario scarica elden ring ")
 let a =1
 
 class studenteSfortunato{
-    name;
+    name='ciao';
     age;
     id
 }
@@ -26,6 +25,3 @@ let studenteB=new studenteSfortunato("Tano conquistatore di mondi",
 
 console.log(studenteA)
 console.log(studenteB)
-
-
-console.timer()
